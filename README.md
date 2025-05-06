@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <div align="center">
    
 <a href="https://github.com/DavidCruzGomez/PythonFinalProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidCruzGomez&repo=PythonFinalProject&theme=transparent" alt="Python"></a>
+<a href="https://github.com/DavidCruzGomez/BicycleSalesForecastingAndDatawarehouseProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidCruzGomez&repo=BicycleSalesForecastingAndDatawarehouseProject&theme=transparent" alt="Python"></a>
 </div>
 <br>
 <h2 align="center">📊 My Github stats:</h2>
